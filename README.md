@@ -1,101 +1,99 @@
-# Himesh Raj
-
-Backend Systems Engineer focused on **scalable Java architectures**, **AI-integrated services**, and **production-grade DevOps pipelines**. Work centers on building fault-tolerant systems, enforcing strong data guarantees, and deploying intelligent services with measurable reliability.
+<h1 align="center">Himesh Raj</h1>
+<p align="center">Backend Systems • AI Integration • DevOps</p>
 
 ---
 
-## Core Engineering Domains
+## Engineering Profile
 
-**Backend Architecture**
+Backend Systems Engineer focused on **scalable Java architectures**, **AI-integrated services**, and **production-grade DevOps pipelines**. Work centers on fault-tolerant system design, secure data handling, and deployment-ready intelligent services.
 
-* Java, Spring Boot, distributed REST systems
-* API design, service decomposition, secure data flow modeling
-* Transaction integrity, concurrency control, system observability
+---
 
-**AI / ML Systems Integration**
+## System Telemetry
 
-* Applied machine learning pipelines
-* OCR systems using PaddleOCR
-* Python-based inference services (FastAPI)
-* Model serving, latency optimization, pipeline orchestration
+![Stats](https://github-readme-stats.vercel.app/api?username=HimeshRaj)
+![Streak](https://streak-stats.demolab.com?user=HimeshRaj)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimeshRaj)
 
-**DevOps & Infrastructure**
+---
 
-* CI/CD pipeline engineering (build → test → validate → deploy)
-* Automated quality gates and integration testing
-* Deployment reliability, rollback strategies, zero-downtime updates
+## Tech Stack
 
-**Privacy Engineering**
-
-* Differential Privacy implementations
-* Zero-Knowledge Proof systems (ZKP)
-* Secure computation pipelines aligned with regulatory constraints
+![Java](https://img.shields.io/badge/Java-Backend-red)
+![Spring](https://img.shields.io/badge/Spring-Boot-green)
+![Python](https://img.shields.io/badge/Python-ML-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Serving-teal)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-black)
+![Security](https://img.shields.io/badge/Security-Privacy-critical)
 
 ---
 
 ## Engineering Work
 
-### ZeroVault — Privacy-Preserving Data Infrastructure
-
-A data clean room system designed for strict regulatory compliance under India’s DPDP Act (2023).
-
-* Enforces privacy guarantees using Differential Privacy and ZKP
-* Enables secure computation without exposing raw user data
-* Designed for cryptographic integrity across distributed systems
-* Integrated CI pipelines validate privacy invariants before deployment
+### 🛡️ ZeroVault
+Privacy-first data clean room  
+→ DPDP Act (2023) aligned  
+→ Differential Privacy + Zero-Knowledge Proofs  
+→ Cryptographic integrity enforced in CI pipelines  
 
 ---
 
-### Java Code Reviewer — Automated Static Analysis Engine
-
-Backend-driven system for intelligent Java code analysis.
-
-* Detects structural inefficiencies, code smells, and logical issues
-* Applies rule-based + AI-assisted evaluation
-* Integrates directly into CI/CD pipelines for pre-deployment validation
-* Reduces manual review load while increasing code reliability
+### 🤖 Java Code Reviewer
+Automated Java static analysis engine  
+→ Detects code smells, deep nesting, inefficiencies  
+→ AI-assisted + rule-based validation  
+→ CI-integrated pre-deployment code review  
 
 ---
 
-### Float Chat (Stream Hub) — Real-Time Communication System
-
-Low-latency, event-driven chat infrastructure.
-
-* Built on event streaming architecture for high concurrency
-* Optimized message propagation and connection handling
-* Backend designed for horizontal scalability
-* Continuous deployment ensures uninterrupted real-time service
+### 💬 Float Chat (Stream Hub)
+Real-time event-driven chat system  
+→ Low-latency message streaming  
+→ High concurrency handling  
+→ Horizontally scalable backend architecture  
 
 ---
 
-### Intelligent OCR & Vision Systems
+### 🧠 Intelligent OCR & Vision Systems
+High-accuracy OCR pipeline engineering  
+→ PaddleOCR-based recognition  
+→ Preprocessing: binarization, deskewing, noise removal  
+→ FastAPI-based inference services  
 
-End-to-end OCR pipeline engineering for structured data extraction.
+---
 
-* Preprocessing: binarization, noise reduction, geometric correction
-* Recognition: PaddleOCR-based inference pipelines
-* Backend orchestration using FastAPI for high-throughput processing
-* Designed for accuracy-critical document understanding systems
+## Systems Thinking
+
+- Distributed system design and service decomposition  
+- Fault tolerance and failure isolation  
+- Observability: logging, metrics, tracing  
+- Scalability: horizontal vs vertical trade-offs  
+- CI/CD-driven reliability enforcement  
+
+---
+
+## Activity Layer
+
+![snake](https://github.com/HimeshRaj/HimeshRaj/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## Current Trajectory
 
-* Transitioning into professional engineering role (2026)
-* Advancing toward production-level distributed systems expertise
-* Studying Japanese for academic and technical expansion
+- Transition to professional engineering role (2026)  
+- Advancing distributed systems and ML integration  
+- Japanese language progression for academic depth  
 
 ---
 
 ## Beyond Engineering
 
-Public speaking and stage anchoring with structured narrative delivery. Hosted large-scale events including TEDx “Constellation” and Swaranjali 2k26. Incorporates classical Hindi literature, particularly the works of Ramdhari Singh Dinkar, into live performances for rhetorical impact.
+Public speaking and stage anchoring. Hosted TEDx “Constellation” and Swaranjali 2k26. Integrates classical Hindi literature, particularly the works of Ramdhari Singh Dinkar, into live performances.
 
 ---
 
-## System Orientation
+## Contact
 
-* Build for scale from day one
-* Validate assumptions through automation
-* Treat security and privacy as first-class system properties
-* Eliminate manual bottlenecks in engineering workflows
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/himesh-raj-778834319/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?logo=vercel)](https://himeshraj77.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailforhimesh@gmail.com)
