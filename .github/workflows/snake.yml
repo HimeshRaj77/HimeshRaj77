@@ -27,3 +27,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
           publish_branch: output
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
