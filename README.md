@@ -9,13 +9,6 @@ Backend Systems Engineer focused on **scalable Java architectures**, **AI-integr
 
 ---
 
-## System Telemetry
-
-![Stats](https://github-readme-stats.vercel.app/api?username=HimeshRaj)
-![Streak](https://streak-stats.demolab.com?user=HimeshRaj)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimeshRaj)
-
----
 
 ## Tech Stack
 
