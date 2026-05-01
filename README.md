@@ -65,12 +65,6 @@ High-accuracy OCR pipeline engineering
 
 ---
 
-## Activity Layer
-
-![snake](https://github.com/HimeshRaj/HimeshRaj/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## Current Trajectory
 
 - Transition to professional engineering role (2026)  
